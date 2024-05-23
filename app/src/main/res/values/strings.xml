@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SwipeAssignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="price">Price</string>
+    <string name="tax">Tax</string>
+    <string name="save">SAVE</string>
+    <string name="search">Search</string>
+    <string name="toast_alert_empty_fields">All fields are required</string>
+    <string name="alert_error">Something went wrong. Please try again</string>
+    <string name="alert_add_product_success">Product saved successfully</string>
+    <string name="notification_alert_add_product_success">Product saved successfully</string>
+    <string name="add_product_notification_channel_description">This is to show you status of newly added products</string>
+    <string name="add_product_notification_channel_name">Add Product</string>
+    <string name="ok">OK</string>
+    <string name="permission_not_granted">Permission not granted</string>
+    <string name="notification_permission_description">Notification permission is required to notify you about the updates of adding products</string>
+    <string name="notification_feature_unavailable">Notification updates about product upload is unavailable since we do not have permission.</string>
+    <string name="feature_unavailable">Feature Unavailable</string>
+    <string name="cancel">Cancel</string>
+    <string name="shared_pref_key">Swipe_shared_preferences</string>
+    <string name="ask_valid_price">Please enter a valid price</string>
+    <string name="ask_valid_tax">Please enter a valid tax</string>
+
+</resources>
